@@ -3,8 +3,8 @@ using namespace std;
 int main(){
     int n;
     cout<<"Elige una conversion"<<endl;
-    cout<<"1. C  a  F"<<endl;
-    cout<<"2. F  a  C"<<endl;
+    cout<<"1. c  a  f"<<endl;
+    cout<<"2. f  a  c"<<endl;
     cin>>n;
      if(n==1){
           float c;
